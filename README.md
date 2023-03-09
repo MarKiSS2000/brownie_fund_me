@@ -1,2 +1,2 @@
 # brownie_fund_me
-Smart Contract Applications with Brownie.
+Smart Contract Applications using Brownie.
