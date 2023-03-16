@@ -1,4 +1,4 @@
 # brownie_fund_me
 
-Smart Contract Applications.
-Brownie.
+1) Smart Contract Applications.
+2) Brownie.
